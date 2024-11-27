@@ -1,2 +1,3 @@
-const awsKey ="AKIAXXEXAMPLEEXAMPLE";
+const awsKey ="";
+const stripeApiKey = '';
 
