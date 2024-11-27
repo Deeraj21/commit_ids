@@ -1,1 +1,2 @@
+const awsKey ="AKIAXXEXAMPLEEXAMPLE";
 
